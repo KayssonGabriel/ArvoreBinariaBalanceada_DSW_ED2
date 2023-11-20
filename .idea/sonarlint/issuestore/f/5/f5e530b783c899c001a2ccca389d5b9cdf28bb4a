@@ -1,0 +1,10 @@
+
+Q
+java:S3740["/Provide the parametrized type for this generic.(ËÏóıÿÿÿÿ8’Ï¾¾1
+G	java:S106@"+Replace this use of System.out by a logger.(¸É¿Ï8µÏ¾¾1
+G	java:S106J"+Replace this use of System.out by a logger.(¸É¿Ï8¶Ï¾¾1
+G	java:S106T"+Replace this use of System.out by a logger.(¸É¿Ï8·Ï¾¾1
+G	java:S106`"+Replace this use of System.out by a logger.(ã¤À8¸Ï¾¾1
+G	java:S106"+Replace this use of System.out by a logger.(™ÒÅW8ºÏ¾¾1
+X
+java:S1128"6Remove this unused import 'javax.swing.tree.TreeNode'.(š­©Òûÿÿÿÿ8ã®¦¾¾1
